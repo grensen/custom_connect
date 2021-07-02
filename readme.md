@@ -1,7 +1,7 @@
 # Make the World Great Again
 # Custom Connect 2021
 
-![alt text](https://github.com/grensen/custom_connect/figures/custom_2021.gif?raw=true)
+![alt text](https://github.com/grensen/custom_connect/blob/main/figures/custom_2021.gif.gif?raw=true)
 
 A 2019 project of mine revolved around some sophisticated ideas on how to implement neural networks. This work here is my first milestone to give it a face. I am proud to present custom connect, a new kind of neural network.
 
