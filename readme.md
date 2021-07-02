@@ -41,7 +41,7 @@ A 2019 project of mine revolved around some sophisticated ideas on how to implem
 ## Prolog
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grensen/custom_connect/blob/master/figures/mislabeled_data.png">
+  <img src="https://raw.githubusercontent.com/grensen/custom_connect/main/figures/mislabeled_data.png">
 </p>
 
 Fernanda Viégas from Google Brain talked in her [lecture](https://youtu.be/ulLx2iPTIcs) about how you can accelerate your machine learning skills by a factor of 10 by playing with data simulation and visualization tools. The best way to play is with a game. So why not take a neural network and turn it into a [goodgame](https://raw.githubusercontent.com/grensen/gif_test)?
@@ -55,7 +55,7 @@ Note that ReLU was used as activation function for the hidden neurons. If the va
 ## Perceptron vs. Custom Perceptron
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grensen/custom_connect/blob/master/figures/custom_perceptron.png">
+  <img src="https://raw.githubusercontent.com/grensen/custom_connect/main/figures/custom_perceptron.png">
 </p>
 
 A neural network can be described as a collection of perceptrons. With many layers, this is also called a deep neural network (DNN) or a multi-layer perceptron (MLP). To understand custom connect, you need to know how a perceptron works. But instead of connecting the input neuron with its weight to the output neuron, the custom position is able to connect this input neuron with its weight to any neuron in the network. The weight position is the unique key to this.
