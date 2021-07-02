@@ -44,7 +44,7 @@ A 2019 project of mine revolved around some sophisticated ideas on how to implem
   <img src="https://raw.githubusercontent.com/grensen/custom_connect/main/figures/mislabeled_data.png">
 </p>
 
-Fernanda Viégas from Google Brain talked in her [lecture](https://youtu.be/ulLx2iPTIcs) about how you can accelerate your machine learning skills by a factor of 10 by playing with data simulation and visualization tools. The best way to play is with a game. So why not take a neural network and turn it into a [goodgame](https://raw.githubusercontent.com/grensen/gif_test)?
+Fernanda Viégas from Google Brain talked in her [lecture](https://youtu.be/ulLx2iPTIcs) about how you can accelerate your machine learning skills by a factor of 10 by playing with data simulation and visualization tools. The best way to play is with a game. So why not take a neural network and turn it into a [goodgame](https://github.com/grensen/gif_test)?
 
 There are several ways to solve a problem with mislabeled data like in the example above. One technique that every machine learning (ML) engineer should know is to execute the forward pass and skip the backward pass and weight optimization when the prediction is more than 99%. It does not matter if the prediction was right or wrong. Nothing bad would happen in the example. 
 
@@ -564,9 +564,9 @@ Theoretically, a missing bias can produce worse predictions. In regression probl
 </p>
 
 * Run  [Visual Studio 2019 Community](https://visualstudio.microsoft.com/downloads/)
-* [Download](https://drive.google.com/file/d/12s7E-2-GqgkYY6ZNw0jgKvGTeVDZbXqB/) file with MNIST and extract
+* [Download](https://github.com/grensen/custom_connect/raw/main/goodgame.zip) file with MNIST and extract
 * Copy the folder with all subdirectories to your c-drive
-* Follow the animation (create WPF App, delete stuff, activate Release mode, create cc class, copy [code](https://github.com/grensen/custom_connect/main/custom_connect.cs), start cc)
+* Follow the animation (create WPF App, delete stuff, activate Release mode, create cc class, copy [code](https://github.com/grensen/custom_connect/blob/main/custom_connect.cs), start cc)
 
 Alternatively, the paths can be changed via code, but the method described is preferred to ensure backward compatibility with gg.
 
