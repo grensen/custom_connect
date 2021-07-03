@@ -3,7 +3,7 @@
 
 ![alt text](https://raw.githubusercontent.com/grensen/custom_connect/main/figures/custom_2021.gif?raw=true)
 
-A 2019 project of mine revolved around some sophisticated ideas on how to implement neural networks. This work here is my first milestone to give it a face. I am proud to present custom connect, a new kind of neural network.
+A 2019 project of mine revolved around some sophisticated ideas on how to implement neural networks. This work here is my first milestone to give it a face. I am proud to present custom connect, a new kind of neural network. But watch out, the presentation is optimized for Full HD on a PC or laptop. Github dark mode should be used to get the real experience. 
 
 ## [Table of Content](#table-of-content)
 
@@ -584,7 +584,7 @@ One of the biggest disadvantages of neural networks is the large amount of train
 
 As always with neural networks, in the end there are more questions than answers. Are custom networks also neural networks? When it comes to using techniques like dropout or batch normalization or optimizers like RMSprop or Adam. Then yes. But if you expect the same results as with a neural network, then no!
 
-It was a very cool experience to see what is already in this basic implementation and how well it works. But now it's hard for me to say anything with certainty after all the testing. Except that there is still a lot of room for improvement.
+It was a very cool experience to see what is already in this basic implementation and how well it works. But now it's hard for me to say anything with absolute certainty after all the testing. Except that there is still a lot of room for improvement.
 
 ##
 
