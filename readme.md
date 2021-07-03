@@ -3,7 +3,12 @@
 
 ![alt text](https://raw.githubusercontent.com/grensen/custom_connect/main/figures/custom_2021.gif?raw=true)
 
-A 2019 project of mine revolved around some sophisticated ideas on how to implement neural networks. This work here is my first milestone to give it a face. I am proud to present custom connect, a new kind of neural network. But watch out, the presentation is optimized for Full HD on a PC or laptop. Github dark mode should be used to get the real experience. 
+A 2019 project of mine revolved around some sophisticated ideas on how to implement neural networks. This work here is my first milestone to give it a face. I am proud to present custom connect, a new kind of neural network. 
+
+***But watch out, the presentation is optimized for Full HD on a PC or laptop. Github dark mode should be used to get the real experience.***
+
+
+<br>
 
 ## [Table of Content](#table-of-content)
 
