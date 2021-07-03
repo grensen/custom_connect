@@ -8,8 +8,6 @@ A 2019 project of mine revolved around some sophisticated ideas on how to implem
 ***But watch out, the presentation is optimized for Full HD on a PC or laptop. Github dark mode should be used to get the real experience.***
 
 
-<br>
-
 ## [Table of Content](#table-of-content)
 
 * [Prolog](#prolog)
