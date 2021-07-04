@@ -113,7 +113,7 @@ With the reinforced connections and especially with more layers, it gets really 
 ## First Competitors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grensen/custom_connect/main/figures/competitors.jpg?raw=true">
+  <img src="https://raw.githubusercontent.com/grensen/custom_connect/main/figures/competitors.png?raw=true">
 </p>
 
 These are the networks for a first test. All three types are based on the same source, a `784-16-16-10` network with ReLU activation for the hidden neurons and softmax for the output neurons to get a final prediction. The respective font color represents the network shown in the upcoming tests. 
